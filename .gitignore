@@ -2,7 +2,7 @@ maxino-static
 msat_runner.py
 **/*.dmg
 **/*.cnf
-**/*.13cnf
+**/*.wcnf
 **/*.res
 generator.py
 env
