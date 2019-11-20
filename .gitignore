@@ -1,0 +1,9 @@
+maxino-static
+msat_runner.py
+**/*.dmg
+**/*.cnf
+**/*.13cnf
+**/*.res
+generator.py
+env
+__pycache__
