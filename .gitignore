@@ -4,6 +4,7 @@ msat_runner.py
 **/*.cnf
 **/*.wcnf
 **/*.res
+**/*.spu
 generator.py
 env
 __pycache__
